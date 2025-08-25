@@ -12,7 +12,7 @@ Converts exported LabChart data into a pandas DataFrame with blocks, continuous 
 Install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/dambach/lachart_txt_parser.git
+pip install git+https://github.com/Neures-1158/lachart_txt_parser.git
 ```
 
 ### For developers
@@ -20,7 +20,7 @@ pip install git+https://github.com/dambach/lachart_txt_parser.git
 Clone this repository and install in editable mode:
 
 ```bash
-git clone https://github.com/dambach/lachart_txt_parser.git
+git clone https://github.com/Neures-1158/lachart_txt_parser.git
 cd lachart_txt_parser
 pip install -e .
 ```
@@ -48,7 +48,7 @@ MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributors & Maintainers
 
-This project is maintained under the [NEURES Lab](https://github.com/your-lab-org) GitHub organization.  
+This project is maintained under the [NEURES Lab](https://github.com/Neures-1158) GitHub organization.  
 Main maintainer: **Damien Bachasson** (author and lead developer).
 
 Contributions from lab members and collaborators are welcome.
