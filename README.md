@@ -44,3 +44,11 @@ python examples/example_usage.py
 ## License
 
 MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## Contributors & Maintainers
+
+This project is maintained under the [NEURES Lab](https://github.com/your-lab-org) GitHub organization.  
+Main maintainer: **Damien Bachasson** (author and lead developer).
+
+Contributions from lab members and collaborators are welcome.
