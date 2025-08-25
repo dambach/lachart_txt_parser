@@ -5,6 +5,8 @@ Converts exported LabChart data into a pandas DataFrame with blocks, continuous 
 
 ## Installation
 
+**Prerequisites**: Python ≥3.8, pip ≥21, and git must be installed.
+
 ### For users
 
 Install directly from GitHub:
