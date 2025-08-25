@@ -1,3 +1,6 @@
+> ⚠️ **Note**: This is a fork for visibility on my personal account.  
+> Main development happens at [Neures-1158/lachart_txt_parser](https://github.com/Neures-1158/lachart_txt_parser).
+
 # LabChart Parser
 
 Parser for ADInstruments LabChart text exports (`.txt` files).  
